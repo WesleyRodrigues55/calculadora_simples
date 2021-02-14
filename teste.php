@@ -91,7 +91,7 @@ if (isset($_POST['number1'])) {
 }
 ?>
 
-<!--------------- TENTANDO FAZER CALCULADORA + - * / --------------->
+<!--------------- CALCULADORA + - * / --------------->
 <form name="CALCULADORA" method="post">
 <h3>Testando php - calculadora</h3>
 <br>
